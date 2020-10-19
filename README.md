@@ -11,7 +11,7 @@ The tool can check a codebase for decaffeinate-readiness, and once the code (or
 a part of it) is ready, bulk-decaffeinate can actually run the conversion and
 some follow-up cleanups. Here's an example of checking the Hubot repo:
 ```
-> npm install -g bulk-decaffeinate decaffeinate eslint
+> npm install -g bulk-decaffeinate decaffeinate
 ...
 > git clone https://github.com/philc/vimium.git
 ...
